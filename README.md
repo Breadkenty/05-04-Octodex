@@ -1,6 +1,6 @@
 # 05-04 Octodex
 
-Visit live site: https://octodex-kento.netlify.com/
+Visit the live site: https://octodex-kento.netlify.com/
 
 # Assignment Overview:
 
